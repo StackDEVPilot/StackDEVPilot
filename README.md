@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer & DevOps Engineer | AWS | Kubernetes | Spring Boot | React Js</h3>
 
 <p align="center">
-  ☁️ Building Scalable Cloud-Native Applications <br>
-  ⚙️ Automating Infrastructure & CI/CD Pipelines
+  Building Scalable Cloud-Native Applications <br>
+  Automating Infrastructure & CI/CD Pipelines
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ##  About Me
 -  I specialize in AWS,Kubernetes, Docker, Terraform and more 
-- 💻 Experienced in Java & Spring Boot backend development  
-- ⚛️ Building dynamic frontends using React  
-- ☁️ Designing AWS cloud infrastructure
-- 🐳 Containerizing applications using Docker  
-- ☸️ Deploying microservices to Kubernetes (EKS)  
-- ⚙️ Infrastructure as Code using Terraform  
-- 🔄 CI/CD automation using Jenkins & GitHub Actions  
-- 🔐 SSL, Ingress & secure cloud architecture implementation  
-- 📊 Monitoring & optimizing production systems  
+-  Experienced in Java & Spring Boot backend development  
+-  Building dynamic frontends using React  
+-  Designing AWS cloud infrastructure
+-  Containerizing applications using Docker  
+-  Deploying microservices to Kubernetes (EKS)  
+-  Infrastructure as Code using Terraform  
+-  CI/CD automation using Jenkins & GitHub Actions  
+-  SSL, Ingress & secure cloud architecture implementation  
+-  Monitoring & optimizing production systems  
 
 ---
 
@@ -31,27 +31,27 @@
 ### 💻 Backend
 Java | Spring Boot | Microservices  
 
-### ⚛️ Frontend
+###  Frontend
 React  
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins  
 
-### 🖥️ OS & Tools
+###  OS & Tools
 Linux | Git | Bash  
 
 ---
 
 ##  Featured Project – End-to-End DevOps on AWS
 
-- 🔹 Provisioned infrastructure using Terraform  
-- 🔹 Configured VPC, ALB, EC2, RDS, IAM  
-- 🔹 Built CI/CD pipelines using Jenkins  
-- 🔹 Dockerized applications  
-- 🔹 Deployed to Kubernetes (EKS)  
-- 🔹 Implemented Ingress + SSL with cert-manager  
-- 🔹 Monitoring with CloudWatch  
-- 🔹 Auto-scaling & production optimization  
+-  Provisioned infrastructure using Terraform  
+-  Configured VPC, ALB, EC2, RDS, IAM  
+-  Built CI/CD pipelines using Jenkins  
+-  Dockerized applications  
+-  Deployed to Kubernetes (EKS)  
+-  Implemented Ingress + SSL with cert-manager  
+-  Monitoring with CloudWatch  
+-  Auto-scaling & production optimization  
 
 ---
 
