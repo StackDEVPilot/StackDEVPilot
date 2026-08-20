@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janupasha Shaik</h1>
-<h3 align="center">Full Stack Developer & DevOps Engineer | AWS | Kubernetes | Spring Boot | React Js</h3>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD Automation</h3>
 
 <p align="center">
   Building Scalable Cloud-Native Applications <br>
@@ -7,38 +7,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Specialist;Infrastructure+as+Code" />
 </p>
 
 ---
 
 ##  About Me
--  I specialize in AWS,Kubernetes, Docker, Terraform and more 
--  Experienced in Java & Spring Boot backend development  
--  Building dynamic frontends using React  
--  Designing AWS cloud infrastructure
+-  I specialize in AWS, Kubernetes, Docker, Terraform and more 
+-  Designing and provisioning AWS cloud infrastructure
 -  Containerizing applications using Docker  
--  Deploying microservices to Kubernetes (EKS)  
+-  Deploying and managing microservices on Kubernetes (EKS)  
 -  Infrastructure as Code using Terraform  
 -  CI/CD automation using Jenkins & GitHub Actions  
--  SSL, Ingress & secure cloud architecture implementation  
--  Monitoring & optimizing production systems  
+-  Implementing SSL, Ingress & secure cloud architecture  
+-  Monitoring & optimizing production systems with CloudWatch  
 
 ---
 
 ##  Tech Stack
 
-### 💻 Backend
-Java | Spring Boot | Microservices  
-
-###  Frontend
-React  
-
 ###  Cloud & DevOps
-AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins  
+AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions  
 
 ###  OS & Tools
-Linux | Git | Bash  
+Linux | Git | Bash | Shell Scripting  
 
 ---
 
@@ -71,10 +63,10 @@ Linux | Git | Bash
 
 Building Production-Ready Systems by combining:
 
-**Full Stack Development + DevOps Automation + Cloud Infrastructure**
+**DevOps Automation + Cloud Infrastructure + Container Orchestration**
 
 ---
 
 ##  Connect With Me
 
-- Email: Janupashashaik94@gmail.com  
+- Email: [Janupashashaik94@gmail.com](mailto:Janupashashaik94@gmail.com)
